@@ -10,10 +10,8 @@
 
 This project explores a real estate dataset with the aim of understanding key property characteristics, performing descriptive and inferential statistical analysis, and building a regression model to estimate price drivers.
 
----
 
 ## 📂 Dataset Summary
-
 - **Original Dataset Size:** 9,076 observations × 20 variables  
 - **Cleaned Dataset Size:** 291 observations × 6 numeric variables  
 - **Key Variables:**  
