@@ -56,7 +56,7 @@ This project explores a real estate dataset with the aim of understanding key pr
 | 4                 | 34    |
 | 5                 | 14    |
 
-![Bar Plot of Number of Stories](plots/number_of_stories_barplot.png)
+![Bar Plot of Number of Stories](plots/barplot_stories.png)
 
 
 
@@ -87,7 +87,7 @@ Correlation with price:
 
 ### 📉 Scatterplot: Price vs Total Area
 
-![Price vs Total Area](plots/price_vs_total_area.png)
+![Price vs Total Area](plots/price_total_area_regression.png)
 
 - **R-squared** = 0.152  
 > 🧾 Indicates a modest positive linear relationship between total area and price.
